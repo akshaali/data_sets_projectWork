@@ -1,6 +1,6 @@
-It predict the quality of wine given diffrent features and observation .
+# It predict the quality of wine given different features and observation .
 
-* Attribute information
+### Attribute information
 Input variables (based on physicochemical tests): 
 1 - fixed acidity 
 2 - volatile acidity 
