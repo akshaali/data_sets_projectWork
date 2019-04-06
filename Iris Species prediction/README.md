@@ -4,7 +4,10 @@ The Iris flower data set is a multivariate data set introduced by the British st
 The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor).  
 
 ## Four features :
-were measured from each sample  
-* length and width of the sepals and petals, in centimeters.    
+were measured from each sample are --  
+* length of sepals
+* width of the sepals
+* length petals,
+* width of petal . all in centimeters.    
 
 Based on the combination of these four features, Fisher developed a linear discriminant model to distinguish the species from each other.
