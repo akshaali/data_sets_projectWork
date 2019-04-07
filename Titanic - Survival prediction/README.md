@@ -3,7 +3,7 @@ Requirements
 
 Python , jupyter notebook.  
 Numpy, Pandas, seaborn and sklearn library.  
-Dataset(titanic.txt), added in the repository.  
+Dataset(train (2).csv and test.csv), added in the repository.  
 This dataset has passenger information who boarded the Titanic along with other information like survival status, Class, Fare, and other variables. The unfortunate event which was occurred on 15 April 1912, the Titanic sank after colliding with an iceberg, aboard 2224 peoples.
 
 This project addresses the following Data Analysis topics:
