@@ -1,4 +1,4 @@
-# Loan Prediction Loan-Prediction-III
+# Loan-Prediction-III
 This is a problem hosted by Analytics Vidhya
 
 Problem Statement  
